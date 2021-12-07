@@ -1,3 +1,2 @@
 ALUMNA: Yahaira Gomez Sucasaca
-LINK DEL VIDEO: https://youtu.be/skgep84UJJg
 LINK DE GITHUB: https://github.com/YahairaGomez/COMPU-GRAFICA/tree/main/Proyecto_final
