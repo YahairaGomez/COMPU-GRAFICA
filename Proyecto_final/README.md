@@ -19,7 +19,7 @@ Luego se añadió texturas a cada cara del cubo principal
 
 Y por último la animación que en este caso es una estrella saliendo del medio del cubo principal, esta se eleva encima del cubo y luego cae alrededor de este, para apreciar la animación de click sobre la imagen que se muestra a continuación:
 
-[![ScreenShot](https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/estrella.jpg)](https://www.youtube.com/watch?v=TFJaDkFl4l8) width= 200
+[![ScreenShot](https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/estrella.jpg) width= 200](https://www.youtube.com/watch?v=TFJaDkFl4l8) 
 
 En caso tenga problemas visite este link: https://www.youtube.com/watch?v=TFJaDkFl4l8
 
