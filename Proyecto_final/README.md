@@ -13,8 +13,8 @@ Luego se añadió texturas a cada cara del cubo principal
 <img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_texturas.jpg" width= 200>
 
 Y por último la animación que en este caso es una estrella saliendo del medio del cubo principal, esta se eleva encima del cubo y luego cae alrededor de este, tal y como se ve a continuación:
+[![Watch the video](https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/WhatsApp%20Video%202021-12-07%20at%2016.27.35.mp4)
 
-<video src=https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/WhatsApp%20Video%202021-12-07%20at%2016.27.35.mp4>
 
 ### Instalación 🔧
 Para instalar y correr el proyecto descargue la carpeta la carpeta completa y ejecute el programa.
