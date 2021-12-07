@@ -10,16 +10,16 @@ Para instalar y correr el proyecto descargue la carpeta la carpeta completa y ej
 El programa cuenta con un menú con las teclas para mover cada cara o animar al cubo.
 Lo primero que se hizo fue crear un cubito pequeño y a partir de este crear los 27 qie conforman el cubo principal
 
-<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_inicial.jpg" width= 200>
+<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_inicial.jpg" width= 400>
 
 
 Luego se añadió texturas a cada cara del cubo principal
 
-<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_texturas.jpg" width= 200>
+<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_texturas.jpg" width= 400>
 
 Y por último la animación que en este caso es una estrella saliendo del medio del cubo principal, esta se eleva encima del cubo y luego cae alrededor de este, para apreciar la animación de click sobre la imagen que se muestra a continuación:
 
-[![ScreenShot](https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/estrella.jpg) width= 200](https://www.youtube.com/watch?v=TFJaDkFl4l8) 
+[![ScreenShot](https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/estrella.jpg)](https://www.youtube.com/watch?v=TFJaDkFl4l8) 
 
 En caso tenga problemas visite este link: https://www.youtube.com/watch?v=TFJaDkFl4l8
 
