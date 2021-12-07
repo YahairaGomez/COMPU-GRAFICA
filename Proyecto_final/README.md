@@ -5,11 +5,13 @@ caras de dicho cubo y conseguir su solución ordenando estas caras como estaban 
 El programa cuenta con un menú con las teclas para mover cada cara o animar al cubo.
 Lo primero que se hizo fue crear un cubito pequeño y a partir de este crear los 27 qie conforman el cubo principal
 
-<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_inicial.jpg" width= 500>
+<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_inicial.jpg" width= 200>
 
 
 Luego se añadió texturas a cada cara del cubo principal
-<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_texturas.jpg" width= 500>
+
+
+<img src="https://github.com/YahairaGomez/COMPU-GRAFICA/blob/main/Proyecto_final/imagenes/cubo_texturas.jpg" width= 200>
 
 
 ### Instalación 🔧
